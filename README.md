@@ -6,4 +6,6 @@ Install Selenium
 >> pip install selenium
 
 ## Structure for csv file
-Subject, Full-marks, Pass-marks, Obtained-marks
+### Subject, Full-marks, Pass-marks, Obtained-marks
+### Eg: CE401 Applied Mechanics	100	40	80
+
