@@ -42,9 +42,6 @@ with open(filename, encoding="utf-8") as f:
 
 driver = webdriver.Chrome()
 
-print("Please input and submit relevant information in the opened browser (WES iGPA Calculator) first,")
-print("the programme will automatically fill the marks when needed.")
-
 driver.get("https://applications.wes.org/igpa-calculator/igpa.asp")
 wait = WebDriverWait(driver, 6000)
 
