@@ -17,3 +17,5 @@ Note: Don't put headers in the csv file. The provided csv file is for BE in Aero
 2. Create csv file in the mentioned structure. You can use tools like https://www.onlineocr.net/ to create an excel file out of your compiled marksheets pdf. This cann accelerate the process.
 3. Run the python script.
 
+PS: Don't ask me to run the code for you. Run it yourself.
+
