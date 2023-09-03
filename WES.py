@@ -7,10 +7,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.support import expected_conditions as EC
 
-first_name = 'Ganesh'
-last_name = 'Dhungana'
-country = 'nepal'
-email = 'dhunganaganesh02@gmail.com'
+first_name = 'Your Name'
+last_name = 'Your Surname'
+country = 'nepal' # don't change this
+email = 'youremail@gmail.com'
 degree = "Bachelor's in Engineering"
 institution = 'Institute of Engineering'
 study_years = '4'
@@ -21,16 +21,11 @@ credit_mins = []
 grades = []
 
 format = '''
-The grade file is in csv format without header like:
-
-    title, credit, grade
-    ...
-
-make sure that the grade is ranged between 0 and 100.
+The grade file is in csv format without header. Read Readme file for more:
 '''
 
 print(format)
-filename = input("grade file (empty to be `grade.csv`):")
+filename = input("Enter path to grade file (leave it empty to be `grade.csv`):")
 if not filename:
     filename = 'grade.csv'
 
