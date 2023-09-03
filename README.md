@@ -10,7 +10,7 @@ Install Selenium
 ### Subject | Full-marks | Pass-marks | Obtained-marks
 ### Eg: CE401 Applied Mechanics |	100 |	40	| 80
 
-Note: Don't put headers in the csv file.
+Note: Don't put headers in the csv file. The provided csv file is for BE in Aerospace from IOE. 
 
 ## Before running the python script:
 1. Open the python file and input your details there.
