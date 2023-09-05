@@ -1,5 +1,5 @@
 # WES-IOE
-Automatically compute GPA from marks placed in a structured csv file using WES iGPA application. See below for the csv file structure. 
+Automate the process of computing GPA using WES iGPA application from marks placed in a structured csv file. See below for the csv file structure. 
 Original code from HollowMan6/Auto-WES-iGPA-Calculator. Code restructured for Tribhuvan University, Nepal.
 
 ## Pre-steps
